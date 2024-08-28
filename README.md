@@ -37,5 +37,4 @@ brüderlich mit Herz und Hand!
 Einigkeit und Recht und Freiheit
 sind des Glückes Unterpfand:
 |: Blüh im Glanze dieses Glückes,
-blühe, deutsches Vaterland! 
-
+blühe, deutsches Vaterland! :|
