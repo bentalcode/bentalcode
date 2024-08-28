@@ -27,3 +27,15 @@ Developed and deployed a Tabular Data Transformation System, designed for the tr
 bentalcode/bentalcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+For the spirit of big heart, freedom, and love of people of the church, our soul and heart come from the land of poets and thinkers with unconditional bravery and a spirit of fighters!!
+
+Einigkeit und Recht und Freiheit
+für das deutsche Vaterland!
+Danach lasst uns alle streben
+brüderlich mit Herz und Hand!
+Einigkeit und Recht und Freiheit
+sind des Glückes Unterpfand:
+|: Blüh im Glanze dieses Glückes,
+blühe, deutsches Vaterland! 
+
